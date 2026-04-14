@@ -1,16 +1,16 @@
 [package]
-name = "rmatrix"
+name = "tmatrix"
 version = "0.1.0"
 edition = "2021"
-description = "A cinematic Matrix-style terminal rain"
+description = "Cinematic Matrix digital rain in your terminal — green cascades, zero dependencies on your sanity"
 license = "MIT"
 readme = "README.md"
-repository = "https://github.com/deatherving/rmatrix"
+repository = "https://github.com/deatherving/tmatrix"
 keywords = ["matrix", "terminal", "rain", "cli", "animation"]
 categories = ["command-line-utilities"]
 
 [[bin]]
-name = "rmatrix"
+name = "tmatrix"
 path = "src/main.rs"
 
 [dependencies]
