@@ -39,6 +39,10 @@ rustrix [OPTIONS]
 
 The visual appearance depends on your terminal's font. For the closest match to the original Matrix film, set your terminal font to **Matrix Code NFI** (available as a free download).
 
+## Acknowledgements
+
+Inspired by [unimatrix](https://github.com/will8211/unimatrix) by Will8211.
+
 ## License
 
 MIT
