@@ -183,7 +183,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "rustrix"
+name = "rmatrix"
 version = "0.1.0"
 dependencies = [
  "crossterm",

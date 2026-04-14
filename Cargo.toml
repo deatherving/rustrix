@@ -1,16 +1,16 @@
 [package]
-name = "rustrix"
+name = "rmatrix"
 version = "0.1.0"
 edition = "2021"
 description = "A cinematic Matrix-style terminal rain"
 license = "MIT"
 readme = "README.md"
-repository = "https://github.com/deatherving/rustrix"
+repository = "https://github.com/deatherving/rmatrix"
 keywords = ["matrix", "terminal", "rain", "cli", "animation"]
 categories = ["command-line-utilities"]
 
 [[bin]]
-name = "rustrix"
+name = "rmatrix"
 path = "src/main.rs"
 
 [dependencies]

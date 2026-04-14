@@ -1,26 +1,26 @@
-# rustrix
+# rmatrix
 
 A cinematic Matrix-style terminal rain written in Rust.
 
 ## Install
 
 ```
-cargo install rustrix
+cargo install rmatrix
 ```
 
 Or build from source:
 
 ```
-git clone https://github.com/deatherving/rustrix
-cd rustrix
+git clone https://github.com/deatherving/rmatrix
+cd rmatrix
 cargo build --release
-./target/release/rustrix
+./target/release/rmatrix
 ```
 
 ## Usage
 
 ```
-rustrix [OPTIONS]
+rmatrix [OPTIONS]
 ```
 
 | Option | Description |
